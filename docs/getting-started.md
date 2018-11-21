@@ -35,4 +35,7 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+After cloning your fork of this repo
+- setup your mysql parameters in the .env
+- setup an mailchimp account and 
+- change the settings of your mail server in the .env
