@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- Sample community getting started repo
+- Make sure you go through completedly this document
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- How to get started
+- How to be part of the community
 
 ## Getting started
 
